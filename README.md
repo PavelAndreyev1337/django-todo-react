@@ -24,4 +24,4 @@ How to run:
 * `npm install`
 * `npm start`
 
-Thanks for [tutorial]('https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react').
+Thanks for [tutorial](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react).
