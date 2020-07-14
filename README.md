@@ -1,5 +1,7 @@
-# ToDo application 
-
+# ToDo application 📝
+![GitHub last commit](https://img.shields.io/github/last-commit/PavelAndreyev1337/django-todo-react?style=flat-square) 
+![GitHub](https://img.shields.io/github/license/PavelAndreyev1337/django-todo-react?color=green&style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/PavelAndreyev1337/django-todo-react?style=flat-square)
 ## Using:
 * Django
 * DRF
@@ -60,5 +62,6 @@
 [Live website](https://hqua0145494.online-vm.com/)
 
 [Deployment tutorial.](https://pythonworld.ru/web/django-ubuntu1604.html)
+
 Thanks for [tutorial](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react).
 
