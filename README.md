@@ -49,7 +49,7 @@
     * `sudo apt-get install nginx`
 * [configure]('https://medium.com/@timmykko/deploying-create-react-app-with-nginx-and-ubuntu-e6fe83c5e9e7) `nano /etc/nginx/sites-available/default`
 * `sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled`
-* (optional) clear 80 port `sudo fuser -k 80/tcp`or find service `fuser 80/tcp` `ps -p <port> -o comm=` and turn down service `sudo systemctl disable <service>` `sudo systemctl stop <service>`
+* (optional) clear 80 port `sudo fuser -k 80/tcp`or find service `fuser 80/tcp` `ps -p <PID> -o comm=` and turn down service `sudo systemctl disable <service>` `sudo systemctl stop <service>`
 * restart nginx `sudo systemctl restart nginx`
 * change `ALLOWED_HOSTS = [...]`
 * install gunicorn:
