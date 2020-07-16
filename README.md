@@ -59,8 +59,6 @@
     * `sudo systemctl enable gunicorn`
 * add HTTPS [letsencrypt](https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx).
 
-[Live website](https://hqua0145494.online-vm.com/)
-
 [Deployment tutorial.](https://pythonworld.ru/web/django-ubuntu1604.html)
 
 Thanks for [tutorial](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react).
